@@ -1,0 +1,14 @@
+1	! L     * Domain and numerical parameters
+0.5	! H
+101	! NI
+101	! NJ
+2e-4 ! EPS
+1000000 ! SMAX
+
+1	    ! U0       * Physical parameters
+100000       ! P
+0.01    ! CFL
+1e-2    !NU0
+10      !k
+1.29    ! R0
+1.4     ! gamma

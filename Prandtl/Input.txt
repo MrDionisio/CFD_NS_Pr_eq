@@ -1,0 +1,11 @@
+0.5	! L     * Domain and numerical parameters
+0.3	! H
+101	! NI
+101	! NJ
+1.0e-8	! EPS
+5000	! SMAX
+
+1.0	    ! U0       * Physical parameters
+1.0     ! MU
+1000	! R0
+0       ! P
